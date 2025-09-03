@@ -29,7 +29,7 @@ Created Job:-
 Edit Job:-
 
 
-<img width="1920" height="1080" alt="Edit the job" src="https://github.com/user-attachments/assets/cdf38bbd-7b8b-427b-81f4-4e2606c92edd" />
+<img width="1920" height="1080" alt="Edit job" src="https://github.com/user-attachments/assets/cfa0401b-a979-489a-9c75-bb6cfa888cb1" />
 
 
 
