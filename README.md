@@ -1,4 +1,5 @@
-How to install: 
+How to install:
+
 Frontend
 - Clone Repository
 - Npm install
